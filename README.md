@@ -1,5 +1,8 @@
 # Austin Animal Center Data Analysis
 
+## Power BI Dashboard
+
+![Austin Animal Center Dashboard](Screenshot Dashbord_austin-animal-center.png)
 ## Project Overview
 This project analyzes data from the Austin Animal Center to understand trends in animal intake, adoption, and shelter outcomes.
 
