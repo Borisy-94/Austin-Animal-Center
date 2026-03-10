@@ -50,7 +50,7 @@ The Power BI dashboard visualizes key metrics such as:
 
 Example visualization:
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboard2.png)
 
 ---
 
